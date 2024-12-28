@@ -1,5 +1,5 @@
 {
-  "name": "SEON-MD",
+  "name": "HÄSSÄN-ÖVÏÇ",
   "description": "Javascript WhatsApp bot made by Sadiya",
   "logo": "https://i.ibb.co/6Hx9Zkf/SEON-MD-V2.png",
   "keywords": ["bot"],
@@ -7,17 +7,17 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SEON-MD=6Y0kUCCJ#78-yrNVdSHL637sLXofUht_7W54v2Sqa4kMKnvi1ZVQ",
       "required": true
     },  
 
     "GITHUB_USERNAME": {
-      "description": "Put your github username",
+      "description": "hassan6262",
       "required": true
     },
     
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth token",
+      "description": "",
       "required": true
     }   
 },
