@@ -143,5 +143,5 @@ jobs:
 
 `Thanks To, Sanjuwa & Lithika 😅`
 
-SEON-MD WHATSAPP USER BOT CREATED BY Dark Cyber Maker
+ÖVÏÇ-MD WHATSAPP USER BOT CREATED BY hässän övïç Maker
 </div>
