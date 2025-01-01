@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "SEON-MD=6Y0kUCCJ#78-yrNVdSHL637sLXofUht_7W54v2Sqa4kMKnvi1ZVQ",
+      "description": "SEON-MD=qB93iSxZ#KKx8BOlyu4izsgROzR2PT4zSSxDF204bowW75iL0dHQ",
       "required": true
     },  
 
@@ -17,7 +17,7 @@
     },
     
     "GITHUB_AUTH_TOKEN": {
-      "description": "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",
+      "description": "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",
       "required": true
     }   
 },
